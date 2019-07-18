@@ -2,6 +2,7 @@ import address_book
 
 # Here's a small dictionary of favorite books, each keyed to a different person.
 favorite_books = {
+  "Michael":"The last light of the sun",
   "diana": "Crime and Punishment",
   "sophie": "The Secret History",
   "cory": "Fahrenheit 451",
